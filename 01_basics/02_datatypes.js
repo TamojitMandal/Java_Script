@@ -12,3 +12,22 @@ let isLoggedIn = false // boolean
 // object
 
 console.log(typeof name);
+
+
+// primitive
+// 7 types : String, Number, Boolean, null, undefined, symbol, BigInt
+
+
+// Reference (Non primitive)
+// Array, Objects, Functions
+
+const heros = ["Arita", "Ritochit", "Tanay", "Tamojit"];
+
+let myObj ={
+    name: "Sonak",
+    age: 19,
+}
+
+const myFunction = function(){
+    console.log("Hello JS");
+}
